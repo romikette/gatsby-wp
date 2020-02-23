@@ -3,7 +3,7 @@ Gatsby client for WordPress API.
 Uses sourcing-from-wordpress gatsby plugin as a middleware between client and API via graphql.
 
 ## Working example
-Link here - [DEMO](https://elegant-knuth-1a605e.netlify.com/)
+Link here - [DEMO](https://elegant-knuth.netlify.com/)
 
 ## Resources
 [Gatsby Source Wordpress](https://www.gatsbyjs.org/docs/sourcing-from-wordpress/)
