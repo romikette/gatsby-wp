@@ -40,7 +40,7 @@ module.exports = {
         perPage: 100,
         searchAndReplaceContentUrls: {
           sourceUrl: "https://gatsbypress.iamtimsmith.com",
-          replacementUrl: "https://elegant-knuth.netlify.com",
+          replacementUrl: "https://localhost:8000",
         },
         // nr of how many concurrent requests can be sent
         concurrentRequests: 10,
