@@ -3,6 +3,7 @@ module.exports = {
     title: `Gatsby WordPress Client`,
     description: `Gatsby client for headless WordPress API. This application is a POC`,
     author: `romikette`,
+    siteUrl: `https://elegant-knuth.netlify.com`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
