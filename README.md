@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby-WordPress API POC
-</h1>
-
 Gatsby client for WordPress API.
 
 Uses sourcing-from-wordpress gatsby plugin as a middleware between client and API via graphql.
